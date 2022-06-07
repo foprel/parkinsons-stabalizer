@@ -6,7 +6,7 @@ A personal project to develop a hardware device that helps to stabilize Parkinso
 ### Proof of concept
 This project started with the creation of a simple proof-of-concept using an Ardiuno Nano, an MPU-6050 and two DC motors. View a short clip below of the results:
 
-<img href="https://youtu.be/xThYBTOFQqI" src="https://github.com/foprel/parkinsons-stabilizer/blob/main/assets/screenshot-bldc-motor.png" alt="poc" width="400" height="200"/>
+<img href="https://youtu.be/xThYBTOFQqI" src="https://github.com/foprel/parkinsons-stabilizer/blob/main/assets/screenshot-proof-of-concept.png" alt="poc" width="400" height="200"/>
 
 ### BLDC control experimentation
 Although the proof-of-concept shows that such a device can be made, the DC motors are in now way fast and accurate enough. Therefore, I'm currently experimenting with BLDC motors using field-oriented control. For this, a simple brace has been made in Fusion360 to ensure that the motors can turn across opposite axes. View a short clip below of the experiment:
